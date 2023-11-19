@@ -16,7 +16,6 @@
 # -----------------------------------------------------------------
 
 # ignore project-specific files
-dist
 .cache
 .idea
 .idea/
