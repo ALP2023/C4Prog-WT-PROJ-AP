@@ -1,0 +1,111 @@
+/* Main Styles */
+h1 {
+    font-size: 26px;
+    font-weight: bold;
+    background-color: #00827F;
+    color: white;
+    padding: 10px;
+    text-align: center; /* Center text */
+    width: max-content; /* Centered content width */
+    margin: 0 auto; /* Center horizontally */
+    box-sizing: border-box;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 80%;
+    background-color: #E3E4E1;
+    color: black;
+    padding: 20px;
+    justify-content: center;
+    grid-gap: 10px;
+}
+
+.desktop-article-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+article header {
+    background-color: #00827F;
+    color: white;
+    padding: 10px;
+    margin: auto;
+    height: auto;
+}
+
+
+article {
+    background-color: white;
+    margin: 0 20px 10px 0;
+    width: 100%;
+}
+
+article section {
+    margin: auto;
+    padding: 50px;
+    background-color: white;
+}
+.input-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center the input and button horizontally */
+    gap: 25px; /* Add space between the input and button */
+}
+
+.input-group input {
+    width: 80%; /* Make the input fill the available width */
+    border: 2px solid #ccc;
+    padding: 8px;
+    font-size: 14px;
+}
+
+.input-group input::placeholder {
+    color: #999999;
+}
+
+#joke-form button {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #000080;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#jokeResponse {
+    font-size: 14px;
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    margin-bottom: 20px;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #00827F;
+    color: white;
+    padding: 10px;
+}
+
+
+/* Media Query for Tablets and Desktops */
+@media screen and (min-width: 700px) {
+    /* Adjust the styles for desktops min-width: 1024pxhere */
+    h1 {
+        font-size: 48px; /* Increase font size for desktop */
+        font-weight: bold;
+    }
+    .input-group input {
+        width: 50%; /* Make the input fill the available width */
+        padding: 8px;
+        font-size: 24px;
+    }
+
+    #jokeResponse {
+        font-size: 24px; /* Set the desired font size (e.g., 14px) */
+    }
+
+}
+
