@@ -8,8 +8,33 @@
     color: white;
     font-weight: bold;
 }
+/* Custom Styles specific for Index.html */
+.main-header-font-index {
+    align-self: flex-start;
+    text-align: left;
+    font-family: "Eras Bold ITC", sans-serif ;
+    font-size: 52px;
+    color: black;
+    margin-right: 15px;
+}
 
-/* Custom Styles specific for Contact Page*/
+/* Define the size for LinkedIn icon */
+.linkedin-icon img {
+    width: 40px;
+    height: 40px;
+    margin-right: 35px;
+    margin-top: 23px;
+}
+
+/* Define the size for GitHub icon */
+.github-icon img {
+    width: 48px;
+    height: 48px;
+    margin-top: 20px;
+    margin-right: 35px;
+}
+
+/* Custom Styles specific for Contact.html*/
 .main-header-font {
     align-self: flex-start;
     text-align: left;
@@ -43,6 +68,31 @@
     .main-section-font {
         font-size: 18px;
     }
+
+    /* Custom Styles specific for Index.html */
+    .main-header-font-index {
+        font-size: 30px;
+    }
+
+    .custom-section {
+        width: 100%;
+        height: 160px;
+    }
+
+    .custom-font-title {
+        font-size: 32px;
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
+
+    .custom-font-header {
+        font-size: 22px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
 }
 /* Media Query for Tablets and Laptops */
 @media screen and (min-width: 700px) and (max-width: 1024px) {

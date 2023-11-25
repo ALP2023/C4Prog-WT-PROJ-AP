@@ -605,9 +605,17 @@ video {
   text-align: left;
 }
 
+.text-right {
+  text-align: right;
+}
+
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+
+.font-bold {
+  font-weight: 700;
 }
 
 .text-gray-600 {
@@ -618,6 +626,11 @@ video {
 .text-gray-800 {
   --tw-text-opacity: 1;
   color: rgb(31 41 55 / var(--tw-text-opacity));
+}
+
+.text-amber-700 {
+  --tw-text-opacity: 1;
+  color: rgb(180 83 9 / var(--tw-text-opacity));
 }
 
 .hover\:text-amber-600:hover {
