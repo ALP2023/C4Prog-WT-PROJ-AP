@@ -60,7 +60,7 @@
     color: #999999;
     text-decoration: underline;
 }
-/* Resume.html Styles */
+/* Custom Styles specific for Contact.html*/
 .custom-section {
     width: 100%;
     height: 250px;
@@ -76,6 +76,125 @@
     font-size: 28px;
     margin-bottom: 15px;
 }
+
+h2 {
+    color: #1D4ED8; /* Amber-700 color */
+    font-family: 'Eras2', sans-serif;
+    font-weight: bold;
+}
+
+h3 {
+    color: #0F766E; /* Teal-700 */
+    font-family: 'Eras2', sans-serif;
+    font-weight: bold;
+}
+
+h4 {
+    font-family: 'Eras2', sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'ErasLightITC', sans-serif;
+    margin-bottom: 10px;
+}
+
+/* Style the button */
+#showMoreContent {
+    display: none;
+}
+
+#showMoreButton {
+    background-color: #0F766E;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    outline: none;
+}
+
+#showMoreButton:hover {
+    background-color: #1D4ED8;
+    color: white;
+}
+
+#showMoreContent1 {
+    display: none;
+}
+
+#showMoreButton1 {
+    background-color: #0F766E;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    outline: none;
+}
+
+#showMoreButton1:hover {
+    background-color: #1D4ED8;
+    color: white;
+}
+
+#showMoreContent2 {
+    display: none;
+}
+
+#showMoreButton2 {
+    background-color: #0F766E;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    outline: none;
+}
+
+#showMoreButton2:hover {
+    background-color: #1D4ED8;
+    color: white;
+}
+
+#showMoreContent3 {
+    display: none;
+}
+
+#showMoreButton3 {
+    background-color: #0F766E;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    outline: none;
+}
+
+#showMoreButton3:hover {
+    background-color: #1D4ED8;
+    color: white;
+}
+
+#showMoreContent4 {
+    display: none;
+}
+
+#showMoreButton4 {
+    background-color: #0F766E;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    outline: none;
+}
+
+#showMoreButton4:hover {
+    background-color: #1D4ED8;
+    color: white;
+}
+
+.pdf-link {
+    color: blue;
+    text-decoration: underline;
+}
+
 
 /* Media Query for Small Screens (e.g., Mobile) */
 @media screen and (max-width: 700px) {
