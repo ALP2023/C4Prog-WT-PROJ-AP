@@ -1,40 +1,39 @@
 /* Custom Styles */
-.font-eras2 {
-    font-family: 'Eras2', sans-serif;
-}
 
 .aside-header-font {
     align-items: center;
     text-align: left;
-    font-family: 'Eras2', sans-serif;
-    font-size: 26px;
-    color: black;
+    font-family: "Eras Bold ITC", sans-serif;
+    font-size: 40px;
+    color: white;
     font-weight: bold;
 }
 
+/* Custom Styles specific for Contact Page*/
 .main-header-font {
     align-self: flex-start;
     text-align: left;
-    font-family: 'Eras', sans-serif ;
-    font-size: 36px;
+    font-family: "Eras Bold ITC", sans-serif ;
+    font-size: 52px;
     color: black;
     font-weight: bold;
-    margin-right: 120px;
+    margin-right: 50px;
 }
 
 .main-section-font {
     align-items: center;
     text-align: left;
-    font-family: 'Eras2', sans-serif ;
+    font-family: "Eras Light ITC", sans-serif ;
+    font-weight: bold;
     font-size: 20px;
     color: #999999;
     text-decoration: underline;
 }
 
 /* Media Query for Small Screens (e.g., Mobile) */
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 700px) {
     .aside-header-font {
-        font-size: 16px;
+        font-size: 20px;
     }
 
     .main-header-font {
@@ -45,7 +44,12 @@
         font-size: 18px;
     }
 }
-/* Media Query for Desktops */
-@media screen and (min-width: 1024px) {
-    /* Adjust the styles for desktops here */
+/* Media Query for Tablets and Laptops */
+@media screen and (min-width: 700px) and (max-width: 1024px) {
+    .aside-header-font {
+        font-size: 32px;
+    }
+    .main-header-font {
+        font-size: 46px;
+    }
 }
