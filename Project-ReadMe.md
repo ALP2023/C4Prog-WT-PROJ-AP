@@ -39,7 +39,8 @@ Source of .gitignore https://salferrarello.com/starter-gitignore-file/
 ### Media and images
 1. fine-sand.jpg  -  Photo by Karolina Grabowska
    src: https://www.pexels.com/photo/close-up-of-sand-surface-4712000/
-2. pebbles.jpg  -  Photo by Karolina Grabowska
+2. columnar-basalt.jpg - Photo by April Pickard
+3. pebbles.jpg  -  Photo by Karolina Grabowska
    src: https://www.pexels.com/photo/dried-stick-on-white-sand-5202554/
-3. water-over-sand-slow.gif  -  Video by Ruslan Khmelevsky 
+4. water-over-sand-slow.gif  -  Video by Ruslan Khmelevsky 
    src: https://www.pexels.com/video/beach-waves-in-close-up-view-4697001/

@@ -194,7 +194,11 @@ p {
     color: blue;
     text-decoration: underline;
 }
-
+/* Custom Styles specific for About.html*/
+.custom-container {
+    background-color: rgba(255, 255, 255, 0.6); /* White color with opacity*/
+    backdrop-filter: blur(2px); /* Adds a blur effect */
+}
 
 /* Media Query for Small Screens (e.g., Mobile) */
 @media screen and (max-width: 700px) {
