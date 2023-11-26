@@ -54,7 +54,7 @@
     align-self: flex-start;
     text-align: left;
     font-family: "Eras Bold ITC", sans-serif ;
-    font-size: 52px;
+    font-size: 60px;
     color: black;
     font-weight: bold;
     margin-right: 50px;
@@ -65,7 +65,7 @@
     text-align: left;
     font-family: "Eras Light ITC", sans-serif ;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 24px;
     color: #999999;
     text-decoration: underline;
 }
@@ -76,13 +76,13 @@
 }
 
 .custom-font-title {
-    font-size: 40px;
-    margin-top: 70px;
+    font-size: 60px;
+    margin-top: 50px;
     margin-bottom: 15px;
 }
 
 .custom-font-header {
-    font-size: 28px;
+    font-size: 32px;
     margin-bottom: 15px;
 }
 
@@ -104,6 +104,7 @@ h4 {
 }
 
 p {
+    font-size: 20px;
     font-family: 'ErasLightITC', sans-serif;
     margin-bottom: 10px;
 }
@@ -221,7 +222,7 @@ p {
     }
 
     .main-header-font {
-        font-size: 30px;
+        font-size: 40px;
     }
 
     .main-section-font {
@@ -257,7 +258,7 @@ p {
         font-size: 32px;
     }
     .main-header-font {
-        font-size: 46px;
+        font-size: 56px;
     }
 
     .custom-font-title {
