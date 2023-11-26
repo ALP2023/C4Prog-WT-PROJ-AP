@@ -12,7 +12,7 @@ Objectives are to provide the following web pages:
 
 Project GitHub Repository: https://github.com/ALP2023/C4Prog-WT-PROJ-AP.git
 
-Project URL: 
+Project URL: https://alp2023.github.io/C4Prog-WT-PROJ-AP/
 
 Source of .gitignore https://salferrarello.com/starter-gitignore-file/
 
