@@ -24,16 +24,18 @@ Source of .gitignore https://salferrarello.com/starter-gitignore-file/
 1. about-icon.png    
    src: https://www.freeiconspng.com/img/13557
 2. contact-icon.png    
-   src:= https://www.freeiconspng.com/img/99
-3. github-logo.png
+   src: https://www.freeiconspng.com/img/99
+3. example-icon.png
+   src: https://www.freeiconspng.com/img/7546
+4. github-logo.png
    src: https://www.clipart-library.com/clipart/409829.htm
-4. home-icon.png
+5. home-icon.png
    src: https://www.freeiconspng.com/img/190
-5. linkedin.png
+6. linkedin.png
    src: https://clipart-library.com/clip-art/25-259122_icons-symbols-button-linkedin-png-image.htm
-6. project-icon.
+7. project-icon.
    src: https://www.freeiconspng.com/img/29154
-7. resume-icon.png
+8. resume-icon.png
    src: https://www.freeiconspng.com/img/19037
 
 ### Media and images
