@@ -10,9 +10,36 @@ Objectives are to provide the following web pages:
 5.  Projects page
 6.  Sample project page(s)
 
-
 Project GitHub Repository: https://github.com/ALP2023/C4Prog-WT-PROJ-AP.git
 
 Project URL: 
 
 Source of .gitignore https://salferrarello.com/starter-gitignore-file/
+
+## Colour Scheme
+
+
+## Image Sources
+### Icons & Logos
+1. about-icon.png    
+   src: https://www.freeiconspng.com/img/13557
+2. contact-icon.png    
+   src:= https://www.freeiconspng.com/img/99
+3. github-logo.png
+   src: https://www.clipart-library.com/clipart/409829.htm
+4. home-icon.png
+   src: https://www.freeiconspng.com/img/190
+5. linkedin.png
+   src: https://clipart-library.com/clip-art/25-259122_icons-symbols-button-linkedin-png-image.htm
+6. project-icon.
+   src: https://www.freeiconspng.com/img/29154
+7. resume-icon.png
+   src: https://www.freeiconspng.com/img/19037
+
+### Media and images
+1. fine-sand.jpg  -  Photo by Karolina Grabowska
+   src: https://www.pexels.com/photo/close-up-of-sand-surface-4712000/
+2. pebbles.jpg  -  Photo by Karolina Grabowska
+   src: https://www.pexels.com/photo/dried-stick-on-white-sand-5202554/
+3. water-over-sand-slow.gif  -  Video by Ruslan Khmelevsky 
+   src: https://www.pexels.com/video/beach-waves-in-close-up-view-4697001/
