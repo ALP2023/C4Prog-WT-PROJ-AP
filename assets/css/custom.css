@@ -199,6 +199,11 @@ p {
     background-color: rgba(255, 255, 255, 0.6); /* White color with opacity*/
     backdrop-filter: blur(2px); /* Adds a blur effect */
 }
+.image-container {
+    background-color: black;
+    max-width: 100%;
+    overflow: hidden;
+}
 
 /* Media Query for Small Screens (e.g., Mobile) */
 @media screen and (max-width: 700px) {
@@ -240,8 +245,6 @@ p {
         margin-top: 30px;
         margin-bottom: 15px;
     }
-
-
 
 }
 /* Media Query for Tablets and Laptops */
