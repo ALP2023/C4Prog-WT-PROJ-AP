@@ -64,6 +64,5 @@ Source of .gitignore https://salferrarello.com/starter-gitignore-file/
 5. pic01.jpg to pic012.jpg  - Photos by April Pickard
 6. python_geoscience.png  - Image by April Pickard
 7. sql01.jpg to sql03.jpg  - Images by April Pickard
-8. water-over-sand-slow.gif  -  Video by Ruslan Khmelevsky 
-   src: https://www.pexels.com/video/beach-waves-in-close-up-view-4697001/
+8. fire.gif  -  Video by April Pickard
 9. web-01.jpg  - Image by April Pickard
